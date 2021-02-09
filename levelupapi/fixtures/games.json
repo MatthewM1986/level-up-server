@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Monopoly",
+            "game_type": 1,
+            "number_of_players": 4,
+            "gamer": 1,
+            "description": "A game where you outlast your oponents by buying up all realestate property"
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Clue",
+            "game_type": 1,
+            "number_of_players": 6,
+            "gamer": 1,
+            "description": "A game where you find the gamer that commited the crime"
+        }
+    }
+]
