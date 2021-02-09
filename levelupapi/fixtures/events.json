@@ -1,0 +1,22 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "event_time": "2021-05-06",
+            "game": 1,
+            "location": "Matt's House",
+            "scheduler": 1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "event_time": "2021-03-12",
+            "game": 1,
+            "location": "Melissa's House",
+            "scheduler": 1
+        }
+    }
+]
