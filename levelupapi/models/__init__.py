@@ -3,3 +3,4 @@ from .game import Game
 from .event import Event
 from .eventGamer import eventGamer
 from .gameType import gameType
+from .game import Game
